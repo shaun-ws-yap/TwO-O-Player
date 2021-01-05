@@ -1,1 +1,2 @@
-# Simple 2-player math addition game
+# TwO-O-Player Math Game
+### Simple 2-player math addition game
