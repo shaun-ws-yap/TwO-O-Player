@@ -18,7 +18,6 @@ def play(p1, p2, current_player)
   puts q.question
 
   # receives answer from current player
-  puts "Answer: "
   answer = gets.chomp.to_i
 
   # checks answer
